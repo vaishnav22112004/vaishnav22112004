@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Kata</h1>
 <h3 align="center">Dedicated Developer with a Passion for Crafting High-Quality, Impactful Software Solutions</h3>
 
-- 🔭 I’m currently working on **Keylogger**
+- 🔭 I’m currently working on **InputRecorder**
 
 - 👯 Current Collaborations **CyberProof**
 
